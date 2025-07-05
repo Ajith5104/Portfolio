@@ -4,12 +4,12 @@ export const Bio = {
   roles: ["3D Artist", "Graphic Designer"],
   description:
     "Creative and detail-oriented 3D Artist & Graphic Designer skilled in modeling, texturing, and visual storytelling. Passionate about bringing ideas to life through 3D art and compelling designs. Seeking an opportunity to contribute my technical and artistic skills to innovative projects while growing in a collaborative environment.",
-  github: "https://github.com/Ajith5104",
+  github: "https://www.behance.net/prijonmaya",
   resume:
     "https://drive.google.com/file/d/1-C7N0wz31n4rmn8qeu2wOD6CConIwx_9/view?usp=sharing",
-  linkedin: "https://www.linkedin.com/in/ajithkumar22/",
-  email: "mailto:ajithkumar51046@gmail.com",
-  insta: "https://www.instagram.com/ajithtechy22/",
+  linkedin: "https://www.linkedin.com/in/priya-dharsani-v-742487348/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+  email: "mailto:vpriyadhashini@gmail.com",
+  // insta: "https://www.instagram.com/ajithtechy22/",
   phone: "tel: +91 8610216706",
   whatsapp: 8610216706,
 };
