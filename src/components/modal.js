@@ -177,7 +177,7 @@ const Modal = ({ isOpen, closeModal }) => {
           <InfoIconWrapper>
             <InfoIcon />
             <InfoTooltip>
-              Portfolio - Priyadharshani V, 3D Artist &
+              Portfolio - Priyadharsani V, 3D Artist &
 Graphic Designer 
             </InfoTooltip>
           </InfoIconWrapper>
@@ -190,7 +190,7 @@ Graphic Designer
             Looking forward to connect! 
             <LinkedInLink href="https://www.linkedin.com/in/priya-dharsani-v-742487348/" target="_blank">
               <IconWrapper><LinkedInIcon /></IconWrapper>
-              <LinkedInTooltip>Priyadharshani V</LinkedInTooltip>
+              <LinkedInTooltip>Priyadharsani V</LinkedInTooltip>
             </LinkedInLink>
             <PhoneLink href="tel:+91 8610216706">
               <IconWrapper><MobileFriendlyIcon /></IconWrapper>

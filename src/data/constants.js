@@ -6,7 +6,7 @@ export const Bio = {
     "Creative and detail-oriented 3D Artist & Graphic Designer skilled in modeling, texturing, and visual storytelling. Passionate about bringing ideas to life through 3D art and compelling designs. Seeking an opportunity to contribute my technical and artistic skills to innovative projects while growing in a collaborative environment.",
   github: "https://www.behance.net/prijonmaya",
   resume:
-    "https://drive.google.com/file/d/1veXCRSrlw342zqfaUieUfkg3XFoaFPo0/view?usp=sharing",
+    "https://drive.google.com/file/d/1csCxL_GJkvAMWhmzCMlBCk6stDADhdXR/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/priya-dharsani-v-742487348/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   email: "mailto:vpriyadhashini@gmail.com",
   // insta: "https://www.instagram.com/ajithtechy22/",

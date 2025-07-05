@@ -107,7 +107,7 @@ const YourComponent = () => {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Priyadharshani V</Logo>
+        <Logo>Priyadharsani V</Logo>
         <Nav>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>
@@ -160,7 +160,7 @@ const YourComponent = () => {
             </SocialMediaIcon>
           </CustomTooltip>
         </SocialMediaIcons>
-        <Copyright>&copy; 2025 Priyadharshani V. All rights reserved.</Copyright>
+        <Copyright>&copy; 2025 Priyadharsani V. All rights reserved.</Copyright>
       </FooterWrapper>
     </FooterContainer>
   );

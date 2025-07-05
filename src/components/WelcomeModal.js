@@ -177,7 +177,7 @@ const WelcomeModal = ({ isVisible, onClose }) => {
                 <InfoIconWrapper>
             <InfoIcon />
             <InfoTooltip>
-              Portfolio - Ajith M, Full Stack Developer
+              Portfolio - Priyadharsani V, 3D Artist & Graphic Designer
             </InfoTooltip>
           </InfoIconWrapper>
 
@@ -187,11 +187,11 @@ const WelcomeModal = ({ isVisible, onClose }) => {
           <p style={{ color: '#575c66', marginBottom: '10px' }}>If you have any questions or would like to collaborate, don't hesitate to reach out!</p>
           <p style={{ color: '#575c66', marginBottom: '10px', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
             Looking forward to connect! &nbsp; 
-            <LinkedInLink href="https://www.linkedin.com/in/ajithkumar22/" target="_blank">
+            <LinkedInLink href="https://www.linkedin.com/in/priya-dharsani-v-742487348/" target="_blank">
               <IconWrapper><LinkedInIcon /></IconWrapper>
-              <LinkedInTooltip>Ajith M</LinkedInTooltip>
+              <LinkedInTooltip>Priyadharsani V</LinkedInTooltip>
             </LinkedInLink>
-            <PhoneLink href="tel:+918754083032">
+            <PhoneLink href="tel:+918610216706">
               <IconWrapper><MobileFriendlyIcon /></IconWrapper>
               <PhoneTooltip>Contact Me</PhoneTooltip>
             </PhoneLink>
