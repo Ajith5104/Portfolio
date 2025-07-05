@@ -1,6 +1,6 @@
 export const Bio = {
   name: "Priyadharsani V",
-  HeroImg: "images/heroImage.png",
+  HeroImg: "images/heroImage.jp",
   roles: ["3D Artist", "Graphic Designer"],
   description:
     "Creative and detail-oriented 3D Artist & Graphic Designer skilled in modeling, texturing, and visual storytelling. Passionate about bringing ideas to life through 3D art and compelling designs. Seeking an opportunity to contribute my technical and artistic skills to innovative projects while growing in a collaborative environment.",
@@ -142,7 +142,7 @@ export const education = [
 export const projects = [
   {
     id: 0,
-    title: "GreensCart",
+    title: "Batman",
     //date: "2023 - 2024",
     // description: "Discover a modern e-commerce experience with our platform developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack. Our frontend is designed to be responsive and user-friendly, utilizing Bootstrap for seamless navigation across devices. Complete your purchases securely using the Stripe API, ensuring smooth and reliable payment processing. Stay informed with real-time email notifications powered by the Mailtrap API, keeping you updated on orders and promotions. Explore a wide range of products with ease, thanks to our intuitive interface and dynamic features. With cutting-edge technology and a focus on user experience, our e-commerce website offers a streamlined shopping journey tailored to your needs.",
     image: "images/projectimg/batman.jpg",
@@ -161,7 +161,7 @@ export const projects = [
   },
   {
     id: 1,
-    title: "Weather-Forecasting",
+    title: "House",
     // date: "2023",
   // description:"Designed and developed a Tourism Web Application, offering seamless trip planning, booking, and exploration experiences for travelers.",
     image: "images/projectimg/house.jpg",
@@ -172,10 +172,10 @@ export const projects = [
   },
    {
     id: 2,
-    title: "Organicmart",
+    title: "Eagleman",
     // date: "2023",
     // description: "Welcome to our online shopping website crafted with HTML, CSS, and Bootstrap, offering a sleek and responsive design for effortless browsing. Experience seamless form submissions and communication using Web3's email service API, ensuring efficient customer interaction. Explore a curated selection of products across various categories, all presented in an intuitive layout designed for optimal user experience.",
-    image: "images/projectimg/organicmart.eagleman",
+    image: "images/projectimg/eagleman.jpg",
     // tags: ["HTML", "CSS", "Bootstrap", "Email Service API"],
     // category: "website",
     // github: "https://github.com/Ajith5104/Organic_Mart",
