@@ -192,7 +192,7 @@ Graphic Designer
               <IconWrapper><LinkedInIcon /></IconWrapper>
               <LinkedInTooltip>Priyadharshani V</LinkedInTooltip>
             </LinkedInLink>
-            <PhoneLink href="tel:+918754083032">
+            <PhoneLink href="tel:+91 8610216706">
               <IconWrapper><MobileFriendlyIcon /></IconWrapper>
               <PhoneTooltip>Contact Me</PhoneTooltip>
             </PhoneLink>
