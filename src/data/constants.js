@@ -1,6 +1,6 @@
 export const Bio = {
   name: "Priyadharsani V",
-  HeroImg: "images/heroImage.jp",
+  HeroImg: "images/heroImage.png",
   roles: ["3D Artist", "Graphic Designer"],
   description:
     "Creative and detail-oriented 3D Artist & Graphic Designer skilled in modeling, texturing, and visual storytelling. Passionate about bringing ideas to life through 3D art and compelling designs. Seeking an opportunity to contribute my technical and artistic skills to innovative projects while growing in a collaborative environment.",
