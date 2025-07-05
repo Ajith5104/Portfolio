@@ -177,7 +177,8 @@ const Modal = ({ isOpen, closeModal }) => {
           <InfoIconWrapper>
             <InfoIcon />
             <InfoTooltip>
-              Portfolio - Ajith M, Full Stack Developer 
+              Portfolio - Priyadharshani V, 3D Artist &
+Graphic Designer 
             </InfoTooltip>
           </InfoIconWrapper>
 
@@ -187,9 +188,9 @@ const Modal = ({ isOpen, closeModal }) => {
           <p style={{ color: '#575c66', marginBottom: '10px' }}>If you have any questions or would like to collaborate, don't hesitate to reach out!</p>
           <p style={{ color: '#575c66', marginBottom: '10px', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
             Looking forward to connect! 
-            <LinkedInLink href="https://www.linkedin.com/in/ajithkumar22/" target="_blank">
+            <LinkedInLink href="https://www.linkedin.com/in/priya-dharsani-v-742487348/" target="_blank">
               <IconWrapper><LinkedInIcon /></IconWrapper>
-              <LinkedInTooltip>Ajith M</LinkedInTooltip>
+              <LinkedInTooltip>Priyadharshani V</LinkedInTooltip>
             </LinkedInLink>
             <PhoneLink href="tel:+918754083032">
               <IconWrapper><MobileFriendlyIcon /></IconWrapper>
