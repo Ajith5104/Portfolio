@@ -129,13 +129,21 @@ export const experiences = [
 ];
 export const education = [
   {
-    id: 1,
+    id: 0,
 
     school: "Loyola College",
     date: "2023-2026",
     grade: "Pursuing",
     desc: "",
     degree: "Bachelor of Vocational Studies 3D Animation",
+  },
+  {
+    id: 1,
+
+    school: "Neon Computer education",
+    date: "2021",
+    desc: "",
+    degree: "Diploma in 2D Animation",
   },
 ];
 
