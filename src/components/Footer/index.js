@@ -151,7 +151,7 @@ const YourComponent = () => {
             </SocialMediaIcon>
           </CustomTooltip>
 
-          <CustomTooltip title="GitHub" arrow>
+          <CustomTooltip title="Behance" arrow>
             <SocialMediaIcon
               href="https://www.behance.net/prijonmaya"
               target="_blank"

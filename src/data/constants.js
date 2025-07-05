@@ -137,14 +137,6 @@ export const education = [
     desc: "",
     degree: "Bachelor of Vocational Studies 3D Animation",
   },
-  {
-    id: 1,
-
-    school: "Neon Computer education",
-    date: "2021",
-    desc: "",
-    degree: "Diploma in 2D Animation",
-  },
 ];
 
 export const projects = [
