@@ -6,7 +6,8 @@ import MailIcon from "@mui/icons-material/Mail";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import InstagramIcon from '@mui/icons-material/Instagram';
 import WhatsAppIcon from "@mui/icons-material/WhatsApp";
-import GitHubIcon from "@mui/icons-material/GitHub"; 
+// import GitHubIcon from "@mui/icons-material/GitHub"; 
+import LanguageIcon from '@mui/icons-material/Language';
 import { Bio } from "../../data/constants";
 
 const CustomTooltip = styled(Tooltip)`
@@ -106,7 +107,7 @@ const YourComponent = () => {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Ajith M</Logo>
+        <Logo>Priyadharshani V</Logo>
         <Nav>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>
@@ -152,14 +153,14 @@ const YourComponent = () => {
 
           <CustomTooltip title="GitHub" arrow>
             <SocialMediaIcon
-              href="https://github.com/Ajith5104"
+              href="https://www.behance.net/prijonmaya"
               target="_blank"
             >
-              <GitHubIcon />
+              <LanguageIcon />
             </SocialMediaIcon>
           </CustomTooltip>
         </SocialMediaIcons>
-        <Copyright>&copy; 2024 Ajith M. All rights reserved.</Copyright>
+        <Copyright>&copy; 2025 Priyadharshani V. All rights reserved.</Copyright>
       </FooterWrapper>
     </FooterContainer>
   );
