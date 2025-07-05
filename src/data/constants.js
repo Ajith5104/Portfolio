@@ -94,7 +94,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMZv_SgNc0NGgQUYYy4QLGiVWrjW04DSVK-w&s",
+    img: "https://e7.pngegg.com/pngimages/392/777/png-clipart-visual-arts-education-teacher-national-primary-school-teacher-painting-teacher-thumbnail.png",
     role: "Drawing Teacher",
     company: "Ms Art Academy",
     date: "2022 - 2025",
