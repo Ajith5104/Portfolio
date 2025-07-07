@@ -135,7 +135,7 @@ export const education = [
     date: "2023-2026",
     grade: "Pursuing",
     desc: "",
-    degree: "Bachelor of Vocational 3D Animation",
+    degree: "Bachelor of Vocational 3D Animation ",
   },
 ];
 
