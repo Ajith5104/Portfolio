@@ -6,7 +6,7 @@ export const Bio = {
     "Creative and detail-oriented 3D Artist & Graphic Designer skilled in modeling, texturing, and visual storytelling. Passionate about bringing ideas to life through 3D art and compelling designs. Seeking an opportunity to contribute my technical and artistic skills to innovative projects while growing in a collaborative environment.",
   github: "https://www.behance.net/prijonmaya",
   resume:
-    "https://drive.google.com/file/d/1oipnfwdnFx4toAmGaV1EcGurfDqrAbEj/view?usp=sharing",
+    "https://drive.google.com/file/d/1unbNyyEoMc29xoI-Wriomw2rYHJYyDeE/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/priya-dharsani-v-742487348/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   email: "mailto:vpriyadhashini@gmail.com",
   // insta: "https://www.instagram.com/ajithtechy22/",
@@ -57,23 +57,6 @@ export const skills = [
     ],
   },
 
-  {
-    title: "2D Animation",
-    skills: [
-            {
-        name: "After Effects",
-        image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1200px-Adobe_After_Effects_CC_icon.svg.png",
-      },
- 
-      {
-        name: "Adobe Animate",
-        image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Adobe_Animate_CC_icon_%282020%29.svg/2097px-Adobe_Animate_CC_icon_%282020%29.svg.png",
-      },
-
-    ],
-  },
   {
     title: "UI & UX Design",
     skills: [
@@ -164,7 +147,7 @@ export const projects = [
     title: "House",
     // date: "2023",
   // description:"Designed and developed a Tourism Web Application, offering seamless trip planning, booking, and exploration experiences for travelers.",
-    image: "images/projectimg/house.jpg",
+    image: "images/projectimg/house.JPEG",
     // tags: ["HTML", "CSS", "JavaScript", "Openweathermap API"],
     // category: "webApp",
     // github: "https://github.com/Ajith5104/Weather-Forecasting-Web-App",
@@ -172,10 +155,54 @@ export const projects = [
   },
    {
     id: 2,
-    title: "Eagleman",
+    title: "Rider Demons",
     // date: "2023",
     // description: "Welcome to our online shopping website crafted with HTML, CSS, and Bootstrap, offering a sleek and responsive design for effortless browsing. Experience seamless form submissions and communication using Web3's email service API, ensuring efficient customer interaction. Explore a curated selection of products across various categories, all presented in an intuitive layout designed for optimal user experience.",
-    image: "images/projectimg/eagleman.jpg",
+    image: "images/projectimg/Rider.jpeg",
+    // tags: ["HTML", "CSS", "Bootstrap", "Email Service API"],
+    // category: "website",
+    // github: "https://github.com/Ajith5104/Organic_Mart",
+    // webapp: "https://organicmart.netlify.app/",
+   },
+   {
+    id: 3,
+    title: "Attic",
+    // date: "2023",
+    // description: "Welcome to our online shopping website crafted with HTML, CSS, and Bootstrap, offering a sleek and responsive design for effortless browsing. Experience seamless form submissions and communication using Web3's email service API, ensuring efficient customer interaction. Explore a curated selection of products across various categories, all presented in an intuitive layout designed for optimal user experience.",
+    image: "images/projectimg/Attic.jpeg",
+    // tags: ["HTML", "CSS", "Bootstrap", "Email Service API"],
+    // category: "website",
+    // github: "https://github.com/Ajith5104/Organic_Mart",
+    // webapp: "https://organicmart.netlify.app/",
+   },
+   {
+    id: 4,
+    title: "Interior",
+    // date: "2023",
+    // description: "Welcome to our online shopping website crafted with HTML, CSS, and Bootstrap, offering a sleek and responsive design for effortless browsing. Experience seamless form submissions and communication using Web3's email service API, ensuring efficient customer interaction. Explore a curated selection of products across various categories, all presented in an intuitive layout designed for optimal user experience.",
+    image: "images/projectimg/Interior.jpeg",
+    // tags: ["HTML", "CSS", "Bootstrap", "Email Service API"],
+    // category: "website",
+    // github: "https://github.com/Ajith5104/Organic_Mart",
+    // webapp: "https://organicmart.netlify.app/",
+   },
+   {
+    id: 5,
+    title: "Architecture",
+    // date: "2023",
+    // description: "Welcome to our online shopping website crafted with HTML, CSS, and Bootstrap, offering a sleek and responsive design for effortless browsing. Experience seamless form submissions and communication using Web3's email service API, ensuring efficient customer interaction. Explore a curated selection of products across various categories, all presented in an intuitive layout designed for optimal user experience.",
+    image: "images/projectimg/Architecture.jpeg",
+    // tags: ["HTML", "CSS", "Bootstrap", "Email Service API"],
+    // category: "website",
+    // github: "https://github.com/Ajith5104/Organic_Mart",
+    // webapp: "https://organicmart.netlify.app/",
+   },
+   {
+    id: 6,
+    title: "Lightsaber",
+    // date: "2023",
+    // description: "Welcome to our online shopping website crafted with HTML, CSS, and Bootstrap, offering a sleek and responsive design for effortless browsing. Experience seamless form submissions and communication using Web3's email service API, ensuring efficient customer interaction. Explore a curated selection of products across various categories, all presented in an intuitive layout designed for optimal user experience.",
+    image: "images/projectimg/Lightsaber.jpeg",
     // tags: ["HTML", "CSS", "Bootstrap", "Email Service API"],
     // category: "website",
     // github: "https://github.com/Ajith5104/Organic_Mart",
