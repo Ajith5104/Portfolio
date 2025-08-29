@@ -147,7 +147,7 @@ export const projects = [
     title: "House",
     // date: "2023",
   // description:"Designed and developed a Tourism Web Application, offering seamless trip planning, booking, and exploration experiences for travelers.",
-    image: "images/projectimg/house.JPEG",
+    image: "images/projectimg/House.jpeg",
     // tags: ["HTML", "CSS", "JavaScript", "Openweathermap API"],
     // category: "webApp",
     // github: "https://github.com/Ajith5104/Weather-Forecasting-Web-App",
